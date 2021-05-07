@@ -1,0 +1,5 @@
+
+export const GET_ORDERS = 'GET_ORDERS'
+export const GET_ORDER = 'GET_ORDER'
+export const SAVE_ORDER = 'SAVE_ORDER'
+export const GET_SHIPPING_METHODS = 'GET_SHIPPING_METHODS'
